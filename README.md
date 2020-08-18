@@ -1,1 +1,2 @@
 # HackintoshCompileTool
+HackintoshCompileTool是一個開源的編譯軟體，可以透過圖形化介面編譯所需要的OpenCore文件以及Kext文件。只需下載解壓縮並選擇要編寫的檔案即可開始簡單編寫。
